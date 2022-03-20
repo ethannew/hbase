@@ -60,7 +60,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.ethan.homework.FlowApplication</mainClass>
+                            <mainClass>com.ethan.homework.HBaseDemo</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
